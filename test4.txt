@@ -1,3 +1,2 @@
 Test4
-resources for branch1
-fix the bug
+this is for master branch
